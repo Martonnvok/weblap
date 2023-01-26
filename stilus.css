@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    color: beige;
+    font-size: 10pt;
+    background-image: url(/kepek/black.png);
+    text-align: justify;
+}
+
+main{
+    width: 90%;
+    height: 900px;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(167, 162, 162);
+}
+
+header{
+    background-image: url(/kepek/game.jpg);
+    height: 300px;
+    background-size: cover;
+}
+nav li{
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: 1fr;
+    list-style: none;
+}
+a:hover{
+    background-color: orange;
+    text-decoration: none;
+}
+img{
+    width: 400px;
+    
+}
