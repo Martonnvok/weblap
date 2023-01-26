@@ -41,4 +41,7 @@ h1{
 article{
     text-align: justify;
 }
-aside
+
+li{
+    list-style: square;
+}
