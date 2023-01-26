@@ -3,7 +3,9 @@ body{
     color: beige;
     font-size: 10pt;
     background-image: url(/kepek/black.png);
-    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
 main{
@@ -31,5 +33,12 @@ a:hover{
 }
 img{
     width: 400px;
-    
 }
+
+h1{
+    font-size: 15px;
+}
+article{
+    text-align: justify;
+}
+aside
